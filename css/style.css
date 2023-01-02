@@ -18,8 +18,8 @@ body {
   }
   p {
     position: absolute;
-    top: 25%;
-    left: 18%;
+    top: 20%;
+    left: 10%;
     transform: translate(-8%, -6%);
     color: #fff;
     font-family: "Source Sans Pro";
