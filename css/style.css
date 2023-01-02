@@ -18,12 +18,12 @@ body {
   }
   p {
     position: absolute;
-    top: 25%;
+    top: 20%;
     left: 10%;
     transform: translate(-8%, -6%);
     color: #fff;
     font-family: "Source Sans Pro";
-    font-size: 20mm;
+    font-size: 6mm;
     font-weight: 900;
     -webkit-user-select: none;
     user-select: none;
